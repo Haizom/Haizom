@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hazim
 - 👀 I’m interested in Sotware Engineerning
-- 🌱 I’m currently learning Web Wevelopmwnt
+- 🌱 I’m currently learning Web Wevelopment
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can find me on twitter @HaidariHazim
 
