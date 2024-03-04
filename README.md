@@ -1,7 +1,12 @@
 - 👋 Hi, I’m Hazim
-- 👀 I’m interested in Sotware Engineerning
-- 🌱 I’m currently learning Web and mobile development 
-- 💞️ I’m looking to collaborate on open source projects and technical content creating
+- Web Developer with over 3 years of commercial development of full-stack web applications.
+- Experienced in Next, React, JavaScript, TypeScript, Node, Express, CSS and HTML.
+- I enjoy solving algorithms and Data structures problems, taking online courses (+50 certifications), and participating in forums, conferences and meetups.
+- For me, being a developer means being a problem solver (not only in coding 😉).
+
+- Yes, I am ready to consider your offers, and I currently prefer to work remotely.
+
+- Favorite quote: "Dreamers can't be tamed"
 - 📫 You can find me on [twitter](https://twitter.com/HaidariHazim) | [linkedin](https://www.linkedin.com/in/hazim-alhaidairi).
 
 <!---
